@@ -1,0 +1,26 @@
+name: 문제 제보
+description: 설치·연결·재생 전환 문제를 알려주세요.
+title: "[문제] "
+body:
+  - type: markdown
+    attributes:
+      value: "연결 코드·인증키·전화번호·IP 주소 등 개인 정보는 올리지 마세요."
+  - type: input
+    id: versions
+    attributes:
+      label: 앱 버전과 Mac / Android 버전
+    validations:
+      required: true
+  - type: input
+    id: earphone
+    attributes:
+      label: 이어폰 모델
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 발생 시각·재현 순서·실제 결과
+      description: 자동 전환 ON/OFF, 재생 앱, 기대한 동작도 알려주세요.
+    validations:
+      required: true
