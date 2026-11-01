@@ -26,7 +26,7 @@ Mac 앱은 **Developer ID 서명·Apple 공증 전**이며, APK는 Google Play �
 2. DMG를 열고 `Buds Bridge.app`을 `Applications`로 끌어 넣은 뒤 실행합니다.
    인터넷에서 받은 앱의 실행이 차단되면 [Mac 설치 안내](USER_GUIDE.ko.md#mac-설치)를 확인하세요.
 3. Galaxy에 APK를 설치하고 Audio Bridge를 엽니다. **이어폰 선택 · 등록**에서 같은 이어폰을
-   선택하고 사용자 승인 등록을 완료합니다.
+   선택합니다. 이어서 **진단 → 선택 이어폰 사용자 승인 등록**을 눌러 시스템 승인을 완료합니다.
 4. Mac 메뉴바 `BB OFF`에서 **갤럭시 연결 코드 복사**를 선택합니다. 이 코드를 본인의
    Galaxy로 전달하고 Audio Bridge **설정 → 연결 코드 붙여넣기**에 입력합니다.
    연결 코드는 두 기기의 인증 정보입니다. 공개 게시물·이슈에 올리지 마세요.
